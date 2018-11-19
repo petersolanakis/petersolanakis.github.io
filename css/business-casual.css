@@ -5,6 +5,7 @@
  */
 
  .reduced-centered {
+  height: 68%;
   width: 68%;
   margin: 0 auto;
 }
